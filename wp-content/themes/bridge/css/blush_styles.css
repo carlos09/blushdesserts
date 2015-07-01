@@ -1,0 +1,314 @@
+body.home .featured-prod {
+    margin: 25px 0;
+    text-align: center;
+}
+
+.header_bottom {
+    padding: 10px 0;
+    background: #f6f6f6 url("/wp-content/uploads/2015/06/pink-speckles-half.png") repeat scroll 0 0;
+}
+
+.header_top_bottom_holder {
+    border-bottom: 1px solid #fbe2e5;
+}
+
+h2 {
+    text-shadow: 4px 1px 6px #E4E4E5;
+}
+
+.qbutton {
+    padding: 15px 23px;
+    border-radius: 6px;
+}
+
+.full_width {
+    border-top: 8px solid #faa0c6;
+}
+
+.blush-intro-heading {
+    padding: 60px 0 20px;
+}
+
+.small-details {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+#qode-home .carousel-inner .item .image {
+    background-position: center center;
+}
+
+.blush-section-top {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.blush-section-bottom {
+    padding-bottom: 80px;
+}
+
+.blush-home-products {
+  margin-bottom: 25px !important;
+}
+
+.blush-home-products .wpb_single_image img {
+    max-width: 60%;
+}
+
+.product-title p {
+    font-family: Rochester;
+    font-size: 34px;
+    line-height: 42px;
+    margin: 20px auto;
+}
+
+.blush-cta {
+    padding: 50px 0;
+}
+
+.blush-cta p {
+    font-size: 34px;
+    line-height: 54px;
+    color: #fff;
+    text-shadow: 1px 1px 3px #9f9f9f;
+}
+
+.blush-testimonials {
+    margin-top: 25px;
+    padding-bottom: 80px;
+}
+
+.testimonials_holder.light .flex-direction-nav a {
+      border-color: #bababa;
+}
+
+.testimonials_holder.light .flex-direction-nav a:before {
+    color: #bababa;
+}
+
+.testimonials_holder.light .flex-direction-nav a:hover:before {
+    color: #fff;
+}
+
+/* About */
+.blush-about-content {
+    padding: 20px 0 60px;
+}
+
+/* Pricing Table */
+.blush-price-table .price_table_inner {
+    background-color: #4c2811;
+}
+
+.price-title {
+    color: #59d5c5;
+    font-family: Rochester;
+    font-size: 32px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+
+.blush-price-table .price_table_inner ul li.pricing_table_content {
+    padding: 10px 20px 10px;
+}
+
+.blush-price-table .price_table_inner ul li.pricing_table_content li {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.blush-price-table ul.item-details {
+    margin-top: 10px;
+}
+
+.blush-price-table .qbutton {
+    background: transparent none repeat scroll 0 0;
+    border: 2px solid #59d5c5;
+    border-radius: 6px;
+    color: #59d5c5;
+    margin-top: 25px;
+}
+
+.blush-price-table .qbutton:hover {
+    color: #fff;
+    background-color: #59d5c5;
+    border-color: #59d5c5;
+}
+
+/* Gallery */
+
+.blush-gallery-main {
+  padding: 40px 0 60px;
+}
+
+/* News */
+
+.fts-jal-fb-header {
+    display: none;
+}
+
+.press-title {
+    color: #59d5c5;
+}
+
+.press-links a {
+    color: #a0a0a0;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+
+.press-links a:hover {
+    color: #59d5c5;
+}
+
+/* Menu */
+.package-set {
+    padding: 60px 0 30px;
+}
+
+.package-set:first-child {
+    padding-top: 0;
+}
+
+.package-set.blush-grey {
+    background: #f6f6f6 url("/wp-content/uploads/2015/06/asfalt-dark.png") repeat scroll 0 0 !important;
+}
+
+.price_table_inner ul li.table_title .title_content {
+    text-transform: none;
+}
+
+.wedding-packages.first {
+    padding-top: 60px;
+    padding-bottom: 0;
+}
+
+.wedding-packages.second {
+    padding-bottom: 30px;
+    padding-top: 0;
+}
+
+.q_price_table .price_table_inner {
+    background-color: #4c2811;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+ul.item-details li:last-child {
+    padding-bottom: 0;
+}
+
+.qode_pricing_list .qode_pricing_list_item {
+    letter-spacing: 1px;
+    border-color: #59d5c5;
+}
+
+.menu-divider {
+    padding: 30px 0;
+}
+
+.menu-divider h2 {
+    color: #fff;
+    text-shadow: none;
+}
+
+.a-la-cart-menu h4 {
+    font-size: 34px;
+    line-height: 42px;
+}
+
+.a-la-cart-menu h5 {
+    margin: 15px auto 20px;
+    text-transform: none;
+}
+
+.a-la-cart-menu .small-details {
+    color: #4c2811;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+
+/* END Menu*/
+
+
+/* Contact */
+div.contact_form h5,
+.contact_section .separator {
+    display: none;
+}
+
+.google_map {
+    margin-bottom: 0;
+    border-bottom: 8px solid #faa0c6;
+}
+
+.contact_form input.qbutton {
+  line-height: 26px;
+}
+
+/* Footer */
+.footer_top {
+    border-color: #59d5c5;
+    padding: 60px 0;
+}
+
+.footer_top_holder {
+    background-image: url(http://local.blushdesserts.com/wp-content/uploads/2015/06/crisp-paper-ruffles.png);
+    background-repeat: repeat;
+}
+
+ul.store-hours span.day {
+    width: 150px;
+    display: inline-block;
+}
+
+.footer_top .column_inner > div h2, .footer_top .column_inner > div h3, .footer_top .column_inner > div h4, .footer_top .column_inner > div h5, .footer_top .column_inner > div h6 {
+  color: #59d5c5;
+  font-family: Rochester;
+  font-size: 32px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.footer_top .AlpinePhotoTiles_parent_class {
+    margin: 0 !important;
+}
+
+
+.q_price_table .price_table_inner {
+}
+
+
+
+#back_to_top span {
+    border-color: #faa0c6;
+}
+
+#back_to_top span i {
+    color: #faa0c6;
+    border-color: #faa0c6;
+}
+
+
+
+
+/* Menu Show/Hide */
+
+p.pack-detail-toggle {
+  color: #fff;
+    font-weight: 600;
+  font-size: 18px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+
+
+
+@media only screen and (max-width: 420px) {
+    .header_bottom, footer .container_inner, nav.content_menu {
+        padding: 0 15px;
+    }
+}
